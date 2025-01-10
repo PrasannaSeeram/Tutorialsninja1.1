@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-28T13:43:44 IST" name="Suite" finished-at="2024-12-28T13:43:57 IST" duration-ms="13223">
+  <suite started-at="2025-01-10T12:29:03 IST" name="Suite" finished-at="2025-01-10T12:29:50 IST" duration-ms="46735">
     <groups>
       <group name="Master">
-        <method signature="TC_001RegisterAccountTest.testRegister()[pri:0, instance:testcases.TC_001RegisterAccountTest@79517588]" name="testRegister" class="testcases.TC_001RegisterAccountTest"/>
+        <method signature="TC_006_VerifyShoppingCartFunctionality.testShoppingCart()[pri:0, instance:testcases.TC_006_VerifyShoppingCartFunctionality@1f010bf0]" name="testShoppingCart" class="testcases.TC_006_VerifyShoppingCartFunctionality"/>
       </group> <!-- Master -->
       <group name="Sanity">
-        <method signature="TC_001RegisterAccountTest.testRegister()[pri:0, instance:testcases.TC_001RegisterAccountTest@79517588]" name="testRegister" class="testcases.TC_001RegisterAccountTest"/>
+        <method signature="TC_006_VerifyShoppingCartFunctionality.testShoppingCart()[pri:0, instance:testcases.TC_006_VerifyShoppingCartFunctionality@1f010bf0]" name="testShoppingCart" class="testcases.TC_006_VerifyShoppingCartFunctionality"/>
       </group> <!-- Sanity -->
     </groups>
-    <test started-at="2024-12-28T13:43:44 IST" name="Test" finished-at="2024-12-28T13:43:57 IST" duration-ms="13223">
-      <class name="testcases.TC_001RegisterAccountTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_001RegisterAccountTest@79517588]" started-at="2024-12-28T13:43:44 IST" name="setUp" finished-at="2024-12-28T13:43:54 IST" duration-ms="9646" status="PASS">
+    <test started-at="2025-01-10T12:29:03 IST" name="Test" finished-at="2025-01-10T12:29:50 IST" duration-ms="46735">
+      <class name="testcases.TC_006_VerifyShoppingCartFunctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_006_VerifyShoppingCartFunctionality@1f010bf0]" started-at="2025-01-10T12:29:04 IST" name="setUp" finished-at="2025-01-10T12:29:17 IST" duration-ms="13321" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,15 +29,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testRegister()[pri:0, instance:testcases.TC_001RegisterAccountTest@79517588]" started-at="2024-12-28T13:43:54 IST" name="testRegister" finished-at="2024-12-28T13:43:57 IST" duration-ms="2649" status="PASS">
+        <test-method signature="testShoppingCart()[pri:0, instance:testcases.TC_006_VerifyShoppingCartFunctionality@1f010bf0]" started-at="2025-01-10T12:29:17 IST" name="testShoppingCart" finished-at="2025-01-10T12:29:50 IST" duration-ms="32491" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testRegister -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TC_001RegisterAccountTest@79517588]" started-at="2024-12-28T13:43:57 IST" name="tearDown" finished-at="2024-12-28T13:43:57 IST" duration-ms="408" status="PASS">
+        </test-method> <!-- testShoppingCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TC_006_VerifyShoppingCartFunctionality@1f010bf0]" started-at="2025-01-10T12:29:50 IST" name="tearDown" finished-at="2025-01-10T12:29:50 IST" duration-ms="486" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testcases.TC_001RegisterAccountTest -->
+      </class> <!-- testcases.TC_006_VerifyShoppingCartFunctionality -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

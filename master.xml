@@ -8,9 +8,13 @@
   <parameter name="os" value="windows"/>
   <parameter name="browser" value="chrome"/>
     <classes>
-<!--  <class name="testcases.TC_002LoginTest"/> -->
-   <class name="testcases.TC_001RegisterAccountTest"/>
-    <!-- x<class name="testcases.TC_003_LoginDDT"/>-->
+    <!--  <class name="testcases.TC_001RegisterAccountTest"/> --> 
+     <!--  <class name="testcases.TC_002LoginTest"/> -->
+     <!-- x<class name="testcases.TC_003_LoginDDT"/>-->
+    <!-- <class name="testcases.TC_004_SearchFunctionality"></class> --> 
+     <!--<class name="testcases.TC_005_AddToCartFunctionality"></class>  -->
+     <class name="testcases.TC_006_VerifyShoppingCartFunctionality"></class>
+   
     </classes>
   </test> <!-- Test -->
   

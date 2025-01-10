@@ -33,7 +33,7 @@
   <Loggers>
     <!-- Root logger references the console and rolling appenders -->
     <!-- ${logLevel} -->
-    <Root level="debug">
+    <Root level="off">
       <!--<AppenderRef ref="Console"/> -->
       <AppenderRef ref="RollingFile"/>
     </Root>
